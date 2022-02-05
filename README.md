@@ -7,3 +7,5 @@ Connexion de VSCode et Github
 - Publier une première révision
 
 - Deuxieme revision
+
+- Toisieme revision de Bart
