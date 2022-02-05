@@ -1,0 +1,8 @@
+# Ignore la configuration de l'éditeur
+.vscode/
+
+# Ignore les fichiers MacOS
+.DS_Store
+
+# Ignore les fichiers VIM
+*.swp
